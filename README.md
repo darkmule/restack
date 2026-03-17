@@ -100,3 +100,22 @@ Product direction, scope, assumptions, and open questions are tracked in:
 - replacing MDM or corporate onboarding flows
 - silently auto-installing everything without review
 - supporting non-macOS platforms in the initial version
+
+## A Poem
+
+*Ode to the New Machine*
+
+A blank Mac waits, all polished, clean,
+No trace of tools that once had been.
+The terminal sits silent, bare —
+Where did my aliases go from there?
+
+I scan, I list, I capture all:
+Each brew, each gem, each cask installed,
+Each dotfile tucked in hidden space,
+Each login item finding place.
+
+Then comes the day of the new machine,
+The restack plan, the rebuild dream:
+Apply the known, flag what remains,
+And boot your workflow, whole again.
