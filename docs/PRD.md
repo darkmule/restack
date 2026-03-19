@@ -68,11 +68,13 @@ Current capabilities:
 - npm, pipx, cargo, gem introspection where available
 - login item capture
 - `pkgutil` receipt export
+- **install script generation** — produces a runnable `install.sh` covering package managers, App Store apps, and bootstrap tools
 
 Current outputs:
 
 - `inventory.json`
 - `SUMMARY.md`
+- `install.sh` ← runnable install script for the new machine
 - `Brewfile`
 - `applications.txt`
 - `bootstrap-tools.txt`
@@ -97,6 +99,7 @@ Key outputs:
 - normalized inventory artifact
 - human-readable summary
 - source-specific exports such as Brewfile
+- `install.sh` — a reviewable shell script for reinstalling the captured stack on a new machine
 
 ### 2. Plan
 

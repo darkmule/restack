@@ -33,7 +33,7 @@ Today it focuses on inventory generation. It can currently scan a Mac and export
 - login items
 - installer receipts via `pkgutil`
 
-The script writes a machine-readable JSON export plus supporting text files and a human-readable summary.
+The script writes a machine-readable JSON export, supporting text files, a human-readable summary, and an **`install.sh`** script you can copy to a new Mac and run to reinstall your stack.
 
 ## Current Usage
 
